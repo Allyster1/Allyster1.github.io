@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm an aspiring developer, which is a fancy way of saying I break code until it works. I'm currently learning the magical arts of Javascript. I enjoy long debugging sessions, romantic walks through Stack Overflow, deep conversations with ChatGPT and that glorious moment when the code finally runs (on the third try). My dream is to join a team where I can keep learning, building cool stuff, and explore my potential.
+Hi! I'm an aspiring software engineer, which is a fancy way of saying I break code until it works. I'm currently learning the magical arts of Javascript. I enjoy long debugging sessions, romantic walks through Stack Overflow, deep conversations with ChatGPT and that glorious moment when the code finally runs (on the third try). My dream is to join a team where I can keep learning, building cool stuff, and explore my potential.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ovardovslav@gmail.com) 
