@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+Hi there, i'm Slavi Ovardov, a data solutions executive and an aspiring developer!
 
 
 ## 🌐 Socials:
