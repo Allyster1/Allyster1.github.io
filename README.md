@@ -5,7 +5,7 @@ I am currently a Data Solutions Executive, looking to explore the fields of Soft
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ovardovslav@gmail.com)
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/[slavi-ovardov)
+[![Linkedin](https://www.linkedin.com/in/[slavi-ovardov)
 
 
 # 💻 Tech Stack:
