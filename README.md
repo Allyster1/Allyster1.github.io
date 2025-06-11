@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm an aspiring software engineer from Bulgaria.
+Hi! I'm an aspiring software engineer from Bulgaria that is currently studying Javascript.
 
 I am currently a Data Solutions Executive, looking to explore the fields of Software Engineering.
 
