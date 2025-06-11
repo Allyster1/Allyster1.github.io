@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm an aspiring software engineer, which is a fancy way of saying I break code until it works. I'm currently learning the magical arts of Javascript. I enjoy long debugging sessions, romantic walks through Stack Overflow, deep conversations with ChatGPT and that glorious moment when the code finally runs (on the third try). 
+Hi! I'm an aspiring software engineer from Bulgaria.
 
 I am currently a Data Solutions Executive, looking to explore the fields of Software Engineering.
 
